@@ -1,2 +1,5 @@
 # CG Game
-ball and spikes game
+
+Cool game for Computer Grahics mini project
+
+ - ball and spikes game
